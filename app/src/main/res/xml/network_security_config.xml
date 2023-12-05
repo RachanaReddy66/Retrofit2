@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <!-- Add the CA certificate here -->
+            <certificates src="@raw/eposservice_jk_gov_in" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
+

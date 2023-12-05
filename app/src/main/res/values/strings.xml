@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="name">Name</string>
+    <string name="dealer_uid">Dealer UID</string>
+    <string name="type">Type</string>
+</resources>
